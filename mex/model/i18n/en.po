@@ -5,6 +5,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid  "search.search_input.placeholder"
+msgstr "Search here..."
+
+msgid  "search.entitytype_filter.title"
+msgstr "Entity Type"
+
+msgid  "search.referencefield_filter.field.placholder"
+msgstr "Field to filter by"
+
+msgid "search.reference_filter.dynamic_tab"
+msgstr "Dynamic"
+
+msgid "search.reference_filter.primarysource_tab"
+msgstr "PrimarySource"
+
+msgid "search.result_summary.format"
+msgstr "Showing {} of {} items"
+
 msgid "abstract.singular"
 msgstr "Abstract"
 
