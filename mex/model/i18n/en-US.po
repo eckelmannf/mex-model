@@ -21,7 +21,7 @@ msgid "search.reference_filter.primarysource_tab"
 msgstr "PrimarySource"
 
 msgid "search.result_summary.format"
-msgstr "Showing {} of {} items"
+msgstr "Showing {0} of {1} items"
 
 msgid "abstract.singular"
 msgstr "Abstract"
