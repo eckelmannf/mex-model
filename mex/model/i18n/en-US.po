@@ -26,7 +26,7 @@ msgstr "Showing {0} of {1} items"
 msgid "search.reference_field_filter.placeholder"
 msgstr "Field to filter by"
 
-msgid search.reference_field_filter.add
+msgid "search.reference_field_filter.add"
 msgstr "Add Filter"
 
 msgid "create.title.create_new"
