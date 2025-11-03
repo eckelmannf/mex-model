@@ -23,6 +23,51 @@ msgstr "PrimarySource"
 msgid "search.result_summary.format"
 msgstr "Showing {0} of {1} items"
 
+msgid "search.reference_field_filter.placeholder"
+msgstr "Field to filter by"
+
+msgid search.reference_field_filter.add
+msgstr "Add Filter"
+
+msgid "create.title.create_new"
+msgstr "Create new"
+
+msgid "edit.toggle_all"
+msgstr "Toggle all"
+
+msgid "login.username"
+msgstr "Username"
+
+msgid "login.password"
+msgstr "Password"
+
+msgid "login.button_login"
+msgstr "Login"
+
+msgid "login.invalid_credentials"
+msgstr "Invalid credentials!"
+
+msgid "ingest.button_ingest"
+msgstr "Ingest"
+
+msgid "ingest.button_ingested"
+msgstr "Ingested"
+
+msgid "ingest.search.result_summary_format"
+msgstr "Showing {0} of {1} items"
+
+msgid "ingest.search_info.ldap"
+msgstr "Search users by display name and contact points by email. 'Please use \"*\" as placeholder e.g. \"Muster*\".'"
+
+msgid "ingest.search_info.wikidata"
+msgstr "Search Wikidata by \"Concept URI\". Please paste URI e.g. \"http://www.wikidata.org/entity/Q918501\"."
+
+msgid "ingest.toast_success.title"
+msgstr "Ingested"
+
+msgid "ingest.toast_success.message_format"
+msgstr "{} was ingested successfully."
+
 msgid "abstract.singular"
 msgstr "Abstract"
 

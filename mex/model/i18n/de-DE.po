@@ -23,6 +23,51 @@ msgstr "Primärquelle"
 msgid "search.result_summary.format"
 msgstr "Zeige {0} von {1} Einträgen"
 
+msgid "search.reference_field_filter.placeholder"
+msgstr "Feld zum Filtern"
+
+msgid search.reference_field_filter.add
+msgstr "Filter hinzufügen"
+
+msgid "create.title.create_new"
+msgstr "Erzeugen von"
+
+msgid "edit.toggle_all"
+msgstr "Alle umschalten"
+
+msgid "login.username"
+msgstr "Benutzername"
+
+msgid "login.password"
+msgstr "Passwort"
+
+msgid "login.button_login"
+msgstr "Anmelden"
+
+msgid "login.invalid_credentials"
+msgstr "Ungültige Anmeldedaten!"
+
+msgid "ingest.button_ingest"
+msgstr "Aufnehmen"
+
+msgid "ingest.button_ingested"
+msgstr "Aufgenommen"
+
+msgid "ingest.search.result_summary_format"
+msgstr "Zeige {0} von {1} Einträgen"
+
+msgid "ingest.search_info.ldap"
+msgstr "Suchen Sie Benutzer nach ihrem Anzeigenamen und Email-Adressen. 'Sie können \"*\" als Platzhalter nutzen z.B. \"Muster*\".'"
+
+msgid "ingest.search_info.wikidata"
+msgstr "Durchsuchen Sie Wikidata nach \"Concept URIs\". Fügen Sie einfach URI z.B. \"http://www.wikidata.org/entity/Q918501\" ein."
+
+msgid "ingest.toast_success.title"
+msgstr "Aufgenommen"
+
+msgid "ingest.toast_success.message_format"
+msgstr "{} wurde erfolgreich aufgenommen."
+
 msgid "abstract.singular"
 msgstr "Kurzbeschreibung"
 
