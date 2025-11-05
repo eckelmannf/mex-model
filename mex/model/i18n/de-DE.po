@@ -95,6 +95,18 @@ msgstr "Hinzufügen von"
 msgid "rules.additive_rule.remove_button_prefix"
 msgstr "Entfernen von"
 
+msgid "rules.validation_result_dialog.close_button"
+msgstr "Schließen"
+
+msgid "rules.validation_result_dialog.title"
+msgstr "Validierungsfehler"
+
+msgid "rules.save_button.format"
+msgstr "Speichern von {0}"
+
+msgid "rules.save_button.saving_format"
+msgstr "Speicher {0}..."
+
 msgid "abstract.singular"
 msgstr "Kurzbeschreibung"
 

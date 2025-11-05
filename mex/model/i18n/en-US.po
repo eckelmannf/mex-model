@@ -90,10 +90,22 @@ msgid "merge.filter_entity_type.title"
 msgstr "Filter by Entity Type"
 
 msgid "rules.additive_rule.add_button_prefix"
-msgstr "Add"
+msgstr "New"
 
 msgid "rules.additive_rule.remove_button_prefix"
 msgstr "Remove"
+
+msgid "rules.validation_result_dialog.close_button"
+msgstr "Close"
+
+msgid "rules.validation_result_dialog.title"
+msgstr "Validation Errors"
+
+msgid "rules.save_button.format"
+msgstr "Save {0}"
+
+msgid "rules.save_button.saving_format"
+msgstr "Saving {0}..."
 
 msgid "abstract.singular"
 msgstr "Abstract"
