@@ -47,6 +47,9 @@ msgstr "Login"
 msgid "login.invalid_credentials"
 msgstr "Invalid credentials!"
 
+msgid "ingest.search.placeholder"
+msgstr "Search here..."
+
 msgid "ingest.button_ingest"
 msgstr "Ingest"
 
@@ -67,6 +70,18 @@ msgstr "Ingested"
 
 msgid "ingest.toast_success.message_format"
 msgstr "{} was ingested successfully."
+
+msgid "merge.result_summary.format"
+msgstr "Showing {0} of {1} items"
+
+msgid "merge.submit_button"
+msgstr "Submit Merge"
+
+msgid "merge.search_input.placeholder"
+msgstr "Search here..."
+
+msgid "merge.search.title_format"
+msgstr "Search {0} items"
 
 msgid "abstract.singular"
 msgstr "Abstract"

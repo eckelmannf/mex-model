@@ -47,6 +47,9 @@ msgstr "Anmelden"
 msgid "login.invalid_credentials"
 msgstr "Ungültige Anmeldedaten!"
 
+msgid "ingest.search.placeholder"
+msgstr "Suchtext..."
+
 msgid "ingest.button_ingest"
 msgstr "Aufnehmen"
 
@@ -67,6 +70,18 @@ msgstr "Aufgenommen"
 
 msgid "ingest.toast_success.message_format"
 msgstr "{} wurde erfolgreich aufgenommen."
+
+msgid "merge.result_summary.format"
+msgstr "Zeige {0} von {1} Einträgen"
+
+msgid "merge.submit_button"
+msgstr "Merge einreichen"
+
+msgid "merge.search_input.placeholder"
+msgstr "Hier Suchen..."
+
+msgid "merge.search.title_format"
+msgstr "Suche {0} Einträge"
 
 msgid "abstract.singular"
 msgstr "Kurzbeschreibung"
