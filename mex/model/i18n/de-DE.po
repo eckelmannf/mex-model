@@ -107,6 +107,33 @@ msgstr "Speichern von {0}"
 msgid "rules.save_button.saving_format"
 msgstr "Speicher {0}..."
 
+msgid "components.titles.additional_titles"
+msgstr "+ zusätzliche Titel"
+
+msgid "components.pagination.next_button"
+msgstr "Nächste"
+
+msgid "components.pagination.previous_button"
+msgstr "Vorherige"
+
+msgid "layout.nav_bar.logout_button"
+msgstr "Abmelden"
+
+msgid "layout.nav_bar.search_navitem"
+msgstr "Suchen"
+
+msgid "layout.nav_bar.create_navitem"
+msgstr "Erstellen"
+
+msgid "layout.nav_bar.edit_navitem"
+msgstr "Bearbeiten"
+
+msgid "layout.nav_bar.merge_navitem"
+msgstr "Merge"
+
+msgid "layout.nav_bar.ingest_navitem"
+msgstr "Aufnehmen"
+
 msgid "abstract.singular"
 msgstr "Kurzbeschreibung"
 

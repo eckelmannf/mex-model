@@ -107,6 +107,33 @@ msgstr "Save {0}"
 msgid "rules.save_button.saving_format"
 msgstr "Saving {0}..."
 
+msgid "components.titles.additional_titles"
+msgstr "+ additional titles"
+
+msgid "components.pagination.next_button"
+msgstr "Next"
+
+msgid "components.pagination.previous_button"
+msgstr "Previous"
+
+msgid "layout.nav_bar.logout_button"
+msgstr "Logout"
+
+msgid "layout.nav_bar.search_navitem"
+msgstr "Search"
+
+msgid "layout.nav_bar.create_navitem"
+msgstr "Create"
+
+msgid "layout.nav_bar.edit_navitem"
+msgstr "Edit"
+
+msgid "layout.nav_bar.merge_navitem"
+msgstr "Merge"
+
+msgid "layout.nav_bar.ingest_navitem"
+msgstr "Ingest"
+
 msgid "abstract.singular"
 msgstr "Abstract"
 
