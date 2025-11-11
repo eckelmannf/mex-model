@@ -107,6 +107,12 @@ msgstr "Save {0}"
 msgid "rules.save_button.saving_format"
 msgstr "Saving {0}..."
 
+msgid "rules.save_success_dialog.title"
+msgstr "Saved"
+
+msgid "rules.save_success_dialog.message_format"
+msgstr "{} was saved successfully."
+
 msgid "components.titles.additional_titles"
 msgstr "+ additional titles"
 

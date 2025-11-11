@@ -107,6 +107,12 @@ msgstr "Speichern von {0}"
 msgid "rules.save_button.saving_format"
 msgstr "Speicher {0}..."
 
+msgid "rules.save_success_dialog.title"
+msgstr "Gespeichert"
+
+msgid "rules.save_success_dialog.message_format"
+msgstr "{} wurde erfolgreich gespeichert."
+
 msgid "components.titles.additional_titles"
 msgstr "+ zusätzliche Titel"
 
